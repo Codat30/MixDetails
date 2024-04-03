@@ -1,0 +1,2 @@
+Google DS course link: 
+    https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#linear

@@ -1,0 +1,11 @@
+Course Details:
+
+    1. Docker:
+        1. Learning video: 
+            -> 1. Beginner - https://cognizant.udemy.com/course/learn-docker/#reviews
+
+    2. Kubernetes:
+
+    3. Kafka:
+
+    
